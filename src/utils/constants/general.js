@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://add-cart-db7e0-default-rtdb.firebaseio.com'
